@@ -1,0 +1,1 @@
+web: gunicorn my_dj.wsgi –-log-file -
